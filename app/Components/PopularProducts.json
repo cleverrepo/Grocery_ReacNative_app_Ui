@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "category": "Fruits",
+    "price": 3.99,
+    "oldPrice": 4.99,
+    "rating": 4.8,
+    "kg": "1kg",
+    "image": "https://file.removal.ai/preview/1556bf09-d8d9-41cb-9563-c328e46426bf-apple-1834639_1280.png",
+    "description": "Fresh and juicy red apples. Perfect for a healthy snack.",
+    "origin": "USA",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "category": "Fruits",
+    "price": 1.99,
+    "oldPrice": 2.49,
+    "rating": 4.7,
+    "kg": "1kg",
+    "image": "https://file.removal.ai/preview/64eee5e7-6daa-4f04-b0f0-9925dcf877ae-vecteezy_ripe-bananas-bunch-isolated-on-white-background_9812062.png",
+    "description": "Ripe and sweet bananas full of natural energy.",
+    "origin": "Ecuador",
+    "stock": 200
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "category": "Fruits",
+    "price": 4.49,
+    "oldPrice": 5.49,
+    "rating": 4.6,
+    "kg": "1kg",
+    "image": "https://file.removal.ai/preview/ff892f63-ed87-4ef3-ba7a-3e8ecf12b5a2-pexels-pixabay-161559.png",
+    "description": "Citrus-packed oranges rich in Vitamin C.",
+    "origin": "Spain",
+    "stock": 150
+  },
+  {
+    "id": 4,
+    "name": "Strawberry",
+    "category": "Fruits",
+    "price": 6.99,
+    "oldPrice": 7.99,
+    "rating": 4.9,
+    "kg": "500g",
+    "image": "https://file.removal.ai/preview/348193b7-0074-4177-a14c-fb66b5810e57-pexels-nietjuh-934055.png",
+    "description": "Sweet and succulent strawberries, perfect for desserts.",
+    "origin": "Mexico",
+    "stock": 120
+  }
+]

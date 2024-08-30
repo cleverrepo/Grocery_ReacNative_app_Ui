@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "name":"MasterCard",
+        "image":"https://file.removal.ai/preview/d618e9f8-0f31-480a-b263-84c5d2be26d8-pngegg.png"
+    }, {
+        "id":1,
+        "name":"visaCard",
+        "image":"https://file.removal.ai/preview/b79b247e-36cf-4d8b-826d-494031af1808-pngegg-1.png"
+    },
+    {
+        "id":1,
+        "name":"PayPal",
+        "image":"https://file.removal.ai/preview/722f958b-a6d0-4d14-8cd8-0402c98c015a-pngegg-3.png"
+    },
+    {
+        "id":1,
+        "name":"GooglePay",
+        "image":"https://file.removal.ai/preview/0a7b1bad-370b-40f4-84ad-4e43be6e1e26-pngegg-2.png"
+    }
+]
